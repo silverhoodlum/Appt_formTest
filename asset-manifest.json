@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Appt_formTest/static/css/main.a4d1be7e.css",
+    "main.js": "/Appt_formTest/static/js/main.d1091914.js",
+    "index.html": "/Appt_formTest/index.html",
+    "main.a4d1be7e.css.map": "/Appt_formTest/static/css/main.a4d1be7e.css.map",
+    "main.d1091914.js.map": "/Appt_formTest/static/js/main.d1091914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d1be7e.css",
+    "static/js/main.d1091914.js"
+  ]
+}
