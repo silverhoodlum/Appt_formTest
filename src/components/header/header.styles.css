@@ -1,0 +1,15 @@
+.header{
+    height: 20%;
+    display: flex;
+}
+
+.header-wrap{
+    height: 60%;
+    text-align: left;
+}
+
+.icon{
+    height: 25px;
+    padding-left: 50px;
+    padding-top: 10px;
+}

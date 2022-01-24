@@ -1,0 +1,44 @@
+.form-main-row{
+    height: 80%;
+}
+
+.form-col-plan{
+    height:70%;
+}
+
+.form-radio{
+    width: 80%;
+}
+
+.form-check{
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 6px;
+    padding: 12px;
+}
+
+.plan-type{
+    font-weight: bold;
+    text-align: left;
+}
+
+.form-check-label{
+    width: 90%;
+    padding-left: 1rem;
+}
+.plan-description{
+    font-size: 0.8rem;
+    color: rgb(73, 73, 73);
+    text-align: left;
+}
+
+.form-check-input{
+    float: none !important;
+}
+
+.main-label{
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-bottom: 16px;
+}
